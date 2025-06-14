@@ -4,7 +4,7 @@
 
 I am an Engineering graduate and I'm a passionate as well curious developer aiming to build impactful web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js). With a background in Electronics and Communication Engineering, I blend technical logic with creative problem-solving to develop scalable and user-friendly solutions. I thrive on exploring new technologies and creating solutions that make an impact. While I focus on driving product success, I also enjoy coding and building web applications, blending my love for development with a strategic approach to problem-solving.
 
-Find my portfolio @ <a href="https://myportfolioriyas.netlify.app" target="_blank">RiyasNexus.com</a> 
+### Find my portfolio @ <a href="https://myportfolioriyas.netlify.app" target="_blank">RiyasNexus.com</a> 
 
 🚀 Currently exploring:
 - 🔧 Full Stack Development with React & Node.js
