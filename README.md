@@ -1,4 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Riyas.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=832EF7&width=435&lines=Full+Stack+Developer+%7C+MERN+Stack)](https://git.io/typing-svg)
 
 ## Aspiring MERN & Fullstack Developer
 
